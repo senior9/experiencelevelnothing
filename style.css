@@ -1,0 +1,131 @@
+body{
+    margin: 0%;
+    font-family: 'Rye', cursive;
+}
+
+p{
+    color: dimgray;
+}
+.name{
+    color: goldenrod;
+}
+h1{
+    font-size: medium;
+}
+h2{
+    color: tomato;
+}
+.highliter-2{
+    color: green;
+    
+    text-shadow: indigo;
+}
+h3{
+    color: rgb(65, 95, 151);
+    font-size: 15px;
+
+}
+h4{
+    color: rgb(17, 89, 197);
+}
+.HAlf-width{
+    width: 40%;
+    float: left;
+    padding-left: 2%;
+    margin-left: 2% ;
+}
+.HAlf-width img{
+    width: 80%;
+    
+   
+}
+.top-banner{
+
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+
+}
+section{
+    height: 500px;
+    padding-bottom: 200px;
+}
+.link-button{
+    text-decoration: none;
+    background-color: green;
+    padding: 10px 20px;
+    border-radius: 5px;
+    background-image: linear-gradient(45deg,#c11616, transparent);
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 700;
+
+    
+}
+p{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.middle-banner{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+
+}
+.link-button1{
+    text-decoration: none;
+    background-color: #1c8a73;
+    padding: 10px 20px;
+    border-radius: 5px;
+    background-image: linear-gradient(
+45deg
+,#0c4dd8, transparent);
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 700;
+    padding-top: 14px;
+    padding-bottom: 22px;}
+    .Final{
+        margin-left: 2%;
+        padding-left: 2%;
+        color: dodgerblue;
+        font-family: monospace;
+        font-size: 50px;
+    }
+    .heading3{
+        color: goldenrod;
+        font-family: serif;
+    }
+    .Final1{
+    
+        color: rgb(3, 61, 1);
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-size: 25px;
+    }
+.box{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5px;
+    height: 80%;
+    background-color: white;
+   
+}
+.experience{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+#First{
+    border-left: 8px solid ;
+    border-image: linear-gradient( 180deg, rgb(7, 223, 97), tomato);
+    border-image-slice: 1;
+    margin-left: 80px;
+}
+#second{
+    border-left : 8px solid;
+    border-image: linear-gradient( 180deg, rgb(5, 2, 209), teal);
+    border-image-slice: 1;
+    margin-left: 110px;
+}
+footer p{
+    text-align: center;
+    color: gray;
+}
